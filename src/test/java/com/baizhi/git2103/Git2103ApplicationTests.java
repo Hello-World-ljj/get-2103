@@ -11,7 +11,7 @@ class Git2103ApplicationTests {
 
         int a=10;
         
-        System.out.println;
+        System.out.println();
      
     }
 
