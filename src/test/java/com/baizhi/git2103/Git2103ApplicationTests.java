@@ -10,6 +10,9 @@ class Git2103ApplicationTests {
     void contextLoads() {
 
         int a=10;
+        
+        System.out.println;
+     
     }
 
 }
